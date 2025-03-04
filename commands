@@ -1,0 +1,13 @@
+sudo apt install git
+git init
+git status
+git add .
+git status
+git commit -m "FIRST COMMIT"
+git config --global user.name "Sathvika1110"
+git config --global user.email "245122748009@mvsrec.edu.in"
+git commit -m "FIRST COMMIT"
+git remote add origin "github acc URL"
+git push origin master
+   >username:Sathvika1110
+   >passwrod:copy link of token generated
