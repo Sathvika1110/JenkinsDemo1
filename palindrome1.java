@@ -1,5 +1,5 @@
 
-public class Palindrome {
+public class palindrome1 {
     public static void main(String[] args) {
         // Fetch the input from an environment variable
         String input = System.getenv("PALINDROME_INPUT");
